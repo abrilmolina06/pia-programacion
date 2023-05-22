@@ -1,0 +1,11 @@
+Numero de Articulo: 0
+Nombre del Juego: 
+Ano: 0
+Clasificacion:
+Caracteristicas:
+Genero: 
+Descripcion : 
+Precio:0
+Precio unitario:0
+NO MODIFICALBLE
+

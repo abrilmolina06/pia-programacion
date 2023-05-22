@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pia programacion", "pia programacion\pia programacion.vcxproj", "{722F8CFD-2279-4D29-8000-189F606CD69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Debug|x64.ActiveCfg = Debug|x64
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Debug|x64.Build.0 = Debug|x64
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Debug|x86.ActiveCfg = Debug|Win32
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Debug|x86.Build.0 = Debug|Win32
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Release|x64.ActiveCfg = Release|x64
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Release|x64.Build.0 = Release|x64
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Release|x86.ActiveCfg = Release|Win32
+		{722F8CFD-2279-4D29-8000-189F606CD69E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3423E0B1-1DB7-4CD4-9F95-62A9552EC211}
+	EndGlobalSection
+EndGlobal
